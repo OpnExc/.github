@@ -73,17 +73,9 @@ graph TD
 ### Core Team
 | Role | Name | Contact |
 |------|------|---------|
-| Founder | Alex Chen | alex@openex.org |
-| Tech Lead | Maria Gonzalez | maria@openex.org |
-| Campus Ops | Jordan Smith | jordan@openex.org |
+| Founder | Anonymous | ? |
+| Tech Lead | Anonymous | ? |
+| Campus Ops | Anonymous | ? |
 
 
 ---
-
-<div align="center">
-  📧 **Contact**: hello@openex.org | 🔗 [Press Kit](https://openex.org/press)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://linkedin.com/company/openex)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F)](https://instagram.com/openexorg)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtube.com/openex)
-</div>
