@@ -5,7 +5,7 @@
 **Bridging Campus Communities Through Sustainable Exchange**  
 🏫 A Non-Profit Initiative for Student-Driven Economies 🚀
 
-[![Website](https://img.shields.io/badge/Visit-Website-1A237E)](https://openex.org)
+[![Website](https://img.shields.io/badge/Visit-Website-1A237E)]()
 [![Discord](https://img.shields.io/badge/Join-Discord-5865F2)](https://discord.gg/openex)
 [![Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2)](https://twitter.com/openexorg)
 
